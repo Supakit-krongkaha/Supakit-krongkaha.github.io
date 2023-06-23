@@ -4,11 +4,8 @@ body {
 
 h1 {
     text-align: center;
-} 
-
-h1 {
     color:red;
-}
+} 
 img {
   
     display: block;
@@ -17,6 +14,7 @@ img {
   }
 
 .container {
+    border: 3px solid black;
     padding: 20px;
     margin: auto;
     background-color: rgba(223, 166, 165, 1);
