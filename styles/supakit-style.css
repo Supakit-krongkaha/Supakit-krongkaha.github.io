@@ -3,6 +3,7 @@ body {
   }
 
 h1 {
+    font-family: Verdana, sans-serif;
     text-align: center;
     color:red;
 } 
@@ -19,4 +20,13 @@ img {
     margin: auto;
     background-color: rgba(223, 166, 165, 1);
     width: 600px;
+}
+figcaption {
+  text-align: center;
+}
+.popular{
+  border: 4px dotted red;
+}
+#heading {
+  color: blue;
 }
